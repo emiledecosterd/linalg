@@ -16,13 +16,13 @@ The project contains simple tests to demonstrate the features of the library. A 
 make
 ```
 
-A series of tests will be run. You can modify these tests directly in the `tests.c` file.
+The program performs a series of simple tests. You can modify these tests directly in the `tests.c` file.
 
 ## Authors
 
 * **Emile Décosterd** - *Initial work* - [emiledecosterd](https://github.com/emiledecosterd)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/emiledecosterd/linalg/graphs/contributors) who participated in this project.
 
 ## License
 
